@@ -10,9 +10,13 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('Welcome to Flutter'),
+          leading: Text('This is Leading'),
         ),
         body: Center(
-          child: Text('Hello World'),
+          child: Text(
+            'Hello World',
+            style: TextStyle(fontSize: 96, color: Colors.red),
+          ),
         ),
       ),
     );
