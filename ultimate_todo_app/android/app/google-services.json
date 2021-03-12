@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "364204867745",
+    "project_id": "ultimate-todo-app-demo",
+    "storage_bucket": "ultimate-todo-app-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364204867745:android:6b74da5c5685712cce30e0",
+        "android_client_info": {
+          "package_name": "com.example.ultimate_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364204867745-17a8bm6fl4u774bbtu6muhb7clgo7qru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe1ftLyw9rIimw1-SvU-1DjyLQp7SaoLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364204867745-17a8bm6fl4u774bbtu6muhb7clgo7qru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364204867745-353d8lf3676mr148anj8pk29cic0bdun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ultimateTodoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
